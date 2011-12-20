@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "giftgame/version"
 
 Gem::Specification.new do |s|
-  s.name        = "page_speed"
+  s.name        = "giftgame"
   s.version     = Giftgame::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Albert Bellonch"]

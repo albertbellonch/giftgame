@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    page_speed (0.1.0)
+    giftgame (0.1.0)
 
 GEM
   remote: http://rubygems.org/
@@ -22,5 +22,5 @@ PLATFORMS
 
 DEPENDENCIES
   ZenTest
-  page_speed!
+  giftgame!
   rspec

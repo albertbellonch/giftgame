@@ -1,4 +1,4 @@
 source "http://rubygems.org"
 
-# Specify your gem's dependencies in pagespeed.gemspec
+# Specify your gem's dependencies in giftgame.gemspec
 gemspec
